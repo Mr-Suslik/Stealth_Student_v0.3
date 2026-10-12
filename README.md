@@ -1,4 +1,4 @@
-# 🥷 Stealth_Student v0.3 (Window & Process Control)
+#  Stealth_Student v0.3 (Window & Process Control)
 
 A fast and lightweight Python utility (compiled to `.exe`) designed to manage window visibility and process controls on Windows. Instantly hide active windows, swap them using global hotkeys, or perform a quick close. Features a modern dark UI, system tray integration, automatic configuration saving, and multi-language support.
 
